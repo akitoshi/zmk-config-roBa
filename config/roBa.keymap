@@ -73,7 +73,7 @@
 &kp LEFT_CONTROL  &kp LEFT_ALT  &kp LEFT_COMMAND  &lt_to_layer_0 2 F18  &lt 3 SPACE  &lt_to_layer_0 1 F19      &kp BACKSPACE      &lt 7 ENTER                                &kp RIGHT_SHIFT
             >;
 
-            sensor-bindings = <&inc_dec_kp PG_UP PAGE_DOWN>;
+            sensor-bindings = <&inc_dec_kp PAGE_DOWN PAGE_UP>;
         };
 
         FUNCTION {
